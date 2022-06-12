@@ -1,15 +1,15 @@
 ## 프론트엔드 면접 질문 준비
 
-### [CS](cs.md)
+### 1. [CS](cs.md)
 
-### [JavaScript](javascript.md)
+### 2. [JavaScript](javascript.md)
 
-### [React](#react)
+### 3. [React](#react)
 
-### [Redux](#redux)
+### 4. [Redux](#redux)
 
-### [HTML CSS](#html-css)
+### 5. [HTML CSS](#html-css)
 
-### [Frontend](#frontend)
+### 6. [Frontend](#frontend)
 
-### [Etc](#etc)
+### 7. [기타](#etc)
