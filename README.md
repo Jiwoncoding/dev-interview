@@ -2,7 +2,7 @@
 
 ### [CS](cs.md)
 
-### [JavaScript](#javascript)
+### [JavaScript](javascript.md)
 
 ### [React](#react)
 
