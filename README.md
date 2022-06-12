@@ -13,19 +13,3 @@
 ### [Frontend](#frontend)
 
 ### [Etc](#etc)
-
-
-
-### CS
-
-### JavaScript
-
-### React
-
-### Redux
-
-### HTML CSS
-
-### Frontend
-
-### Etc
