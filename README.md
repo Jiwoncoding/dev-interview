@@ -4,12 +4,12 @@
 
 ### 2. [JavaScript](javascript.md)
 
-### 3. [React](#react)
+### 3. [React](react.md)
 
-### 4. [Redux](#redux)
+### 4. [Redux](redux.md)
 
-### 5. [HTML CSS](#html-css)
+### 5. [HTML CSS](html-css.md)
 
-### 6. [Frontend](#frontend)
+### 6. [Frontend](frontend.md)
 
-### 7. [기타](#etc)
+### 7. [기타](etc.md)
