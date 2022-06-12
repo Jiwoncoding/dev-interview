@@ -1,19 +1,31 @@
 ## 프론트엔드 면접 질문 준비
 
-### 📌 [CS](#cs)
+### [CS](#cs)
 
-### 📌 JavaScript
+### [JavaScript](#javascript)
 
-### 📌 React
+### [React](#react)
 
-### 📌 Redux
+### [Redux](#redux)
 
-### 📌 HTML, CSS
+### [HTML CSS](#html-css)
 
-### 📌 Frontend
+### [Frontend](#frontend)
 
-### 📌 기타
+### [Etc](#etc)
 
 
 
 ### CS
+
+### JavaScript
+
+### React
+
+### Redux
+
+### HTML CSS
+
+### Frontend
+
+### Etc
