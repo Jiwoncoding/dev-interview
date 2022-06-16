@@ -3,6 +3,10 @@
 ### 1. [CS](cs.md)
 
 ### 2. [JavaScript](javascript.md)
+- this
+- Promise
+- Async/Await
+- Arrow Function
 
 ### 3. [React](react.md)
 
