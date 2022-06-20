@@ -1,7 +1,7 @@
 ## GOAL
 ### 👩‍💻 구직 사이트에서 프론트엔드 개발자에게 원하는 소양을 정리
 
-01. 웹 표준 및 접근성, HTML 시맨틱 마크업
+#### 웹 표준 및 접근성, HTML 시맨틱 마크업
 02. Ajax, Javascript, jQuery를 활용한 동적 컨텐츠, 인터렉션 구현이 가능
 03. CSS transition 및 animation 사용 가능
 04. Webpack, Grunt, Sass, Babel 사용 가능
