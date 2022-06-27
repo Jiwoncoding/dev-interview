@@ -10,5 +10,4 @@
 static, relative, absolute, fixed,sticky    
 
 ### Position을 어떻게 사용하는지 알려주세요  
-static은 position의 default 값으로 요소들이 HTML에 작성된 순서대로 배친된다. relative는 요소를 원래 위치를 기준으로 상대적으로 배치해준다.  
-absolute는 부모 요소를 기준으로 top, left, right, bottom 속성을 적용한다. fixed는 화면에 고정시킬 때 사용하고, sticky는 화면을 스크롤링할 때 효과가 나타난다.  
+static은 position의 default 값으로 요소들이 HTML에 작성된 순서대로 배친된다. relative는 요소를 원래 위치를 기준으로 상대적으로 배치해준다. absolute는 부모 요소를 기준으로 top, left, right, bottom 속성을 적용한다. fixed는 화면에 고정시킬 때 사용하고, sticky는 화면을 스크롤링할 때 효과가 나타난다.  
