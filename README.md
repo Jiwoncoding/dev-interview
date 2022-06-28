@@ -17,6 +17,10 @@
 ### 4. [Redux](redux.md)
 
 ### 5. [HTML CSS](html-css.md)
+- Cascading
+- CSS 애니메이션과 JS애니메이션의 차이
+- Position 속성
+- Position 사용법
 
 ### 6. [Frontend](frontend.md)
 - FE 빌드 시스템 종류
