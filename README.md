@@ -1,6 +1,10 @@
 ## 프론트엔드 면접 질문 준비
 
 ### 1. [CS](cs.md)
+- 브라우저 주소창에 www.google.com을 입력하면 일어나는 일
+- DNS
+- GET과 POST의 차이
+- REST API
 
 ### 2. [JavaScript](javascript.md)
 - this
