@@ -39,8 +39,3 @@ MVVM(Model-View-ViewModel) 패턴을 사용하면 애플리케이션의 비즈�
 
 
 
-
-
-
-
-출처 https://github.com/JaeYeopHan/Interview_Question_for_Beginner
