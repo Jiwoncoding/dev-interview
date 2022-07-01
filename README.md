@@ -5,12 +5,16 @@
 - DNS
 - GET과 POST의 차이
 - REST API
+- 객체 지향 프로그래밍
+- 자료구조 stack과 queue
+- 프로세스와 스레드
 
 ### 2. [JavaScript](javascript.md)
 - this
 - Promise
 - Async/Await
 - Arrow Function
+- Promise와 Callback
 
 ### 3. [React](react.md)
 - Context-API
