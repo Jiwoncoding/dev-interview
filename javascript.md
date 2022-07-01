@@ -30,7 +30,9 @@ require() 는 프로그램의 어느 지점에서나 호출 할 수 있지만 im
 ### MVVM 모델
 MVVM(Model-View-ViewModel) 패턴을 사용하면 애플리케이션의 비즈니스 및 프레젠테이션 논리를 UI와 명확하게 구분할 수 있다.
 
-
+### Promise와 Callback
+- Promise : promise를 사용하면 비동기에에서 온 값이 promise 객체에 저장되기 때문에 코드 작성이 용이해진다.
+- Callback : callback을 사용하면 비동기 로직의 결과값을 처리하기 위해서는 callback안에서만 처리를 해야하고, 콜백 밖에서는 비동기에서 온 값을 알 수가 없다.
 
 
 
