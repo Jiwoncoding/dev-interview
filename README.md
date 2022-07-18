@@ -51,6 +51,11 @@
 - CSS 애니메이션과 JS애니메이션의 차이
 - Position 속성
 - Position 사용법
+- DOCTYPE
+- 표준모드와 호환모드
+- data-속성
+- local storage vs session storage vs cookie
+- script cs script async vs script defer
 
 ### 6. [Frontend](frontend.md)
 - FE 빌드 시스템 종류
