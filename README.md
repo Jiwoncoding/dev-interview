@@ -22,6 +22,18 @@
 - Async/Await
 - Arrow Function
 - Promise와 Callback
+- Ajax
+- 이벤트 위임(이벤트 버블링, 이벤트 캡쳐링)
+- 실행 콘텍스트
+- 스코프
+- 호이스팅
+- 클로저
+- 네이티브 객체 vs 호스트 객체
+- var vs let vs const
+- IIFE
+- 이벤트 루프
+- 프로토타입
+- new의 동작 방식
 
 ### 3. [React](react.md)
 - Context-API
