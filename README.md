@@ -21,6 +21,21 @@
 - 클래스형과 함수형의 차이
 - Angular와 React의 차이점
 - 라이브러리와 프레임워크
+- React, 장점
+- 리액트의 내부 작동 원리를 재조정Reconsiliation 개념과 함께 설명
+- virtualDOM 갱신 방법
+- 리액트 라이프사이클과 각 라이프사이클의 역할
+- class component 생명주기 메소드
+- 리액트 라우터같은 Client Side Routing
+- state를 직접 변경하지 않고 setState를 사용하는 이유
+- Props Drilling
+- 리액트 Hooks의 장점
+- JSX
+- 웹 성능 최적화와 useMemo, useCallback 메소드
+- useCallback 동작원리
+- React에서 상태 변화가 생겼을 때, 변화를 어떻게 알아채나
+- 여러가지 상태 관리 라이브러리 Apollo, Redux, MobX의 차이점
+- useEffect 메소드로 componentWillUnmount가 동작할 수 있는 방법
 
 ### 4. [Redux](redux.md)
 
