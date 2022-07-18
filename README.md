@@ -65,3 +65,8 @@
 
 ### 8. [Goal](goal.md)
 - 구직 사이트에서 프론트엔드 개발자에게 원하는 소양 정리
+
+
+
+#### 출처
+https://github.com/baeharam/Must-Know-About-Frontend
