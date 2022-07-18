@@ -2,12 +2,19 @@
 
 ### 1. [CS](cs.md)
 - 브라우저 주소창에 www.google.com을 입력하면 일어나는 일
+- 브라우저 렌더링
+- 파싱
 - DNS
 - GET과 POST의 차이
 - REST API
 - 객체 지향 프로그래밍
 - 자료구조 stack과 queue
 - 프로세스와 스레드
+- CSR과 SSR
+- 모듈
+- 모듈번들러와 트랜스파일러
+- CI와 CD
+- BOM과 DOM
 
 ### 2. [JavaScript](javascript.md)
 - this
