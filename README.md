@@ -55,9 +55,6 @@
 ### 6. [Frontend](frontend.md)
 - FE 빌드 시스템 종류
 - 웹팩
-- Virtual DOM
-- 브라우저 동작 원리
-- 서버 사이드 렌더링과 싱글 페이지 애플리케이션(SPA)
 
 ### 7. [기타](etc.md)
 
