@@ -15,6 +15,7 @@
 - 모듈번들러와 트랜스파일러
 - CI와 CD
 - BOM과 DOM
+- 크로스 브라우징
 
 ### 2. [JavaScript](javascript.md)
 - this
@@ -34,6 +35,7 @@
 - 이벤트 루프
 - 프로토타입
 - new의 동작 방식
+- 객체지향프로그래밍 OOP
 
 ### 3. [React](react.md)
 - Context-API
